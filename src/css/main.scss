@@ -1,0 +1,13 @@
+$nav-color: #F90;
+nav {
+  $width: 100px;
+  width: $width;
+  color: $nav-color;
+  display: flex;
+  transform: translate(-50%,-50%)
+}
+.demo {
+  color: #F90;
+  font-size: 30px;
+  margin: 2px;
+}
